@@ -13,13 +13,12 @@
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript, PHP, C#, Python, DART.
-- **Frameworks:** Angular Typescript, Angularjs 3+, Vue, React.js, React Native, Flutter.
-- **Style Frameworks:** Bootstrap
-- **Back-End:** Node.js, Yii2 Framework(PHP), .NET CORE.
-- **Testing:** Cypress, Robot.
+- **Languages:** C#, Java, JavaScript, TypeScript, PHP.
+- **Frameworks:** Spring Boot, .NET CORE, Angular, Vue.
+- **Style Frameworks:** Bootstrap, Tailwind, Primevue, Primeng, Vuetify, Quasar.
+- **Testing:** Cypress, Robot Junit.
 - **Version Control:** Git, GitLab, GitHub.
-- **Others:** Figma, Clean Code, Scrum, Kanban.
+- **Others:** Figma, Clean Code, Scrum, Kanban, Kafka, Microservice, Microfrontend.
 
 ---
 

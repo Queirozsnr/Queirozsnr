@@ -31,9 +31,3 @@
 </div>
 
 ---
-
-## 👀 Visitor's Count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/{Queirozsnr}/count.svg" alt="Visitor Count" />
-</div>

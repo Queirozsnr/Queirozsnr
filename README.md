@@ -14,7 +14,7 @@
 ## 🛠️ Skills & Tools
 
 - **Languages:** C#, Java, JavaScript, TypeScript, PHP.
-- **Frameworks:** Spring Boot, .NET CORE, Angular, Vue.
+- **Frameworks:** Spring Boot, .NET CORE, Vue, Angular, Laravel.
 - **Style Frameworks:** Bootstrap, Tailwind, Primevue, Primeng, Vuetify, Quasar.
 - **Testing:** Cypress, Robot Junit.
 - **Version Control:** Git, GitLab, GitHub.

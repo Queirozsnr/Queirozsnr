@@ -1,23 +1,30 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador">
-  
-  # Welcome to my profile. 👋
-  
-  Hi there, I'm José Ribamar, a passionate software engineer specializing in web and app development. I'm passionate about technology, focusing on developing solutions that make people's lives easier.
-  
-   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-ribamar-041394178)
-   [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:queirozsnr@gmail.com)
+
+# Hi, I'm José Ribamar 👋
+
+**Senior Software Engineer · .NET & Backend · Flutter**
+
+I build reliable web and mobile solutions, with a focus on clean architecture and products that solve real problems.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-ribamar-041394178)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:queirozsnr@gmail.com)
+
 </div>
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** C#, Java, JavaScript, TypeScript, PHP.
-- **Frameworks:** Spring Boot, .NET CORE, Vue, Angular, Laravel.
-- **Style Frameworks:** Bootstrap, Tailwind, Primevue, Primeng, Vuetify, Quasar.
-- **Testing:** Cypress, Robot Junit.
-- **Version Control:** Git, GitLab, GitHub.
-- **Others:** Figma, Clean Code, Scrum, Kanban, Kafka, Microservice, Microfrontend.
+**Backend:** C# · Java · PHP · Python
+**Framework Backend:** .NET CORE · Spring Boot · Laravel · Yii2 · Django
+**Frontend / Mobile:** TypeScript · JavaScript · Vue · React · Next · Angular · Flutter
+**UI:** Tailwind · Bootstrap · PrimeVue · PrimeNG · Vuetify · Quasar
+**Architecture:** Microservices · Microfrontends · Kafka · Clean Code · Monolithic
+**Testing:** Cypress · Robot Framework · JUnit
+**Workflow:** Git · GitHub · GitLab · Scrum · Kanban · Figma
 
 ---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=queirozsnr&show_icons=true&hide_border=true)

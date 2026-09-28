@@ -23,8 +23,3 @@ I build reliable web and mobile solutions, with a focus on clean architecture an
 **Testing:** Cypress · Robot Framework · JUnit
 **Workflow:** Git · GitHub · GitLab · Scrum · Kanban · Figma
 
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=queirozsnr&show_icons=true&hide_border=true)

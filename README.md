@@ -15,11 +15,10 @@ I build reliable web and mobile solutions, with a focus on clean architecture an
 
 ## 🛠️ Skills & Tools
 
-**Backend:** C# · Java · PHP · Python
-**Framework Backend:** .NET CORE · Spring Boot · Laravel · Yii2 · Django
-**Frontend / Mobile:** TypeScript · JavaScript · Vue · React · Next · Angular · Flutter
-**UI:** Tailwind · Bootstrap · PrimeVue · PrimeNG · Vuetify · Quasar
-**Architecture:** Microservices · Microfrontends · Kafka · Clean Code · Monolithic
-**Testing:** Cypress · Robot Framework · JUnit
+**Backend:** C# · Java · PHP · Python<br>
+**Backend Frameworks:** .NET Core · Spring Boot · Laravel · Yii2 · Django<br>
+**Frontend / Mobile:** TypeScript · JavaScript · Vue · React · Next · Angular · Flutter<br>
+**UI:** Tailwind · Bootstrap · PrimeVue · PrimeNG · Vuetify · Quasar<br>
+**Architecture:** Microservices · Microfrontends · Monolithic · Kafka · Clean Code<br>
+**Testing:** Cypress · Robot Framework · JUnit<br>
 **Workflow:** Git · GitHub · GitLab · Scrum · Kanban · Figma
-

@@ -21,12 +21,3 @@
 - **Others:** Figma, Clean Code, Scrum, Kanban, Kafka, Microservice, Microfrontend.
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Queirozsnr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Queirozsnr&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
